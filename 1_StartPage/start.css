@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+#start-container {
+    background-color: teal;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#start-game-btn {
+    font-size: 26px;
+    font-weight: 600;
+    font-family: "Lucida Sans", serif;
+    text-transform: uppercase;
+    padding: 15px;
+    border: 0;
+    border-radius: 10px;
+    color: teal;
+}
